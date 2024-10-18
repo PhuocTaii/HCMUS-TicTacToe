@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HCMUS-TicTacToe/static/css/main.d3474708.css",
+    "main.js": "/HCMUS-TicTacToe/static/js/main.3b156edd.js",
+    "index.html": "/HCMUS-TicTacToe/index.html",
+    "main.d3474708.css.map": "/HCMUS-TicTacToe/static/css/main.d3474708.css.map",
+    "main.3b156edd.js.map": "/HCMUS-TicTacToe/static/js/main.3b156edd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3474708.css",
+    "static/js/main.3b156edd.js"
+  ]
+}
